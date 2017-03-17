@@ -14,6 +14,7 @@
 		93CCDDE01E7C8D280074E5E4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 93CCDDDE1E7C8D280074E5E4 /* LaunchScreen.storyboard */; };
 		93CCDDEB1E7C8D280074E5E4 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93CCDDEA1E7C8D280074E5E4 /* PostcardTests.swift */; };
 		93CCDDF61E7C8D280074E5E4 /* PostcardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93CCDDF51E7C8D280074E5E4 /* PostcardUITests.swift */; };
+		93CCDE041E7C8F300074E5E4 /* SagradaFamilia.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 93CCDE031E7C8F300074E5E4 /* SagradaFamilia.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		93CCDDF11E7C8D280074E5E4 /* PostcardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		93CCDDF51E7C8D280074E5E4 /* PostcardUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardUITests.swift; sourceTree = "<group>"; };
 		93CCDDF71E7C8D280074E5E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		93CCDE031E7C8F300074E5E4 /* SagradaFamilia.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SagradaFamilia.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				93CCDDD51E7C8D280074E5E4 /* AppDelegate.swift */,
 				93CCDDD71E7C8D280074E5E4 /* ViewController.swift */,
 				93CCDDD91E7C8D280074E5E4 /* Main.storyboard */,
+				93CCDE031E7C8F300074E5E4 /* SagradaFamilia.jpeg */,
 				93CCDDDC1E7C8D280074E5E4 /* Assets.xcassets */,
 				93CCDDDE1E7C8D280074E5E4 /* LaunchScreen.storyboard */,
 				93CCDDE11E7C8D280074E5E4 /* Info.plist */,
@@ -236,6 +239,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				93CCDDE01E7C8D280074E5E4 /* LaunchScreen.storyboard in Resources */,
+				93CCDE041E7C8F300074E5E4 /* SagradaFamilia.jpeg in Resources */,
 				93CCDDDD1E7C8D280074E5E4 /* Assets.xcassets in Resources */,
 				93CCDDDB1E7C8D280074E5E4 /* Main.storyboard in Resources */,
 			);
